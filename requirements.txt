@@ -1,0 +1,21 @@
+# Function dependencies. for example:
+# package>=version
+
+#For Google Cloud Storage
+google-cloud>=0.34.0
+google-cloud-storage>=1.37.0
+
+# For PDF Split
+PyPDF2>=1.26.0
+
+# For PDF To Images Conversion
+PyMuPDF
+
+# For Setting PDF Resolution
+Pillow>=8.2.0
+
+# Path Required for memory cleanup
+pathlib>=1.0.1
+
+# For Decrypting Encrypted Files
+pycryptodome
